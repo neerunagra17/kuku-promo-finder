@@ -1,0 +1,194 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: At her employer's engagement party, maid Mira is accused of stealing the bride's diamond necklace, slapped in front of every guest, and singled out by the family matriarch over the pendant she has worn since childhood.
+CONTINUITY NOTES: Synthetic sample written for testing the promo finder. Not real show content.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. VANCE MANSION BALLROOM – NIGHT
+Scene start: 00:00.00
+Scene end: 01:16.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Wide shot of a glittering ballroom, guests in evening wear raising champagne under a crystal chandelier.
+
+**ACTION:**
+Start: (00:01.00) | End: (00:04.00)
+Mira, in a grey maid's uniform, weaves between guests carrying a silver tray of glasses.
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:07.50)
+Medium shot of Celeste in a white gown touching her bare throat, her face twisting in panic.
+
+**CELESTE (Shrill, Panicked):**
+Start: (00:04.50) | End: (00:07.00)
+"My necklace! Someone took my necklace!"
+
+**CAMERA:**
+Start: (00:07.50) | End: (00:10.00)
+Whip pan across the guests turning, whispering, as the music stops.
+
+**SOUND FX:**
+Start: (00:07.50) | End: (00:08.50)
+The string quartet screeches to a halt.
+
+**CAMERA:**
+Start: (00:10.00) | End: (00:13.00)
+Close-up on Celeste's eyes narrowing as she spots Mira across the room.
+
+**CELESTE (Accusing, Cold):**
+Start: (00:10.50) | End: (00:12.80)
+"You. The maid. You were in my dressing room."
+
+**CAMERA:**
+Start: (00:13.00) | End: (00:16.00)
+Medium close-up of Mira, the tray trembling in her hands.
+
+**MIRA (Shocked, Quiet):**
+Start: (00:13.40) | End: (00:15.80)
+"I only brought your shoes, Miss Celeste."
+
+**CAMERA:**
+Start: (00:16.00) | End: (00:19.00)
+Tracking shot as Celeste storms across the marble floor toward Mira, guests parting.
+
+**ACTION:**
+Start: (00:16.00) | End: (00:19.00)
+Celeste grabs Mira's wrist and the tray crashes to the floor, glasses shattering.
+
+**SOUND FX:**
+Start: (00:17.50) | End: (00:18.50)
+Glass shatters across marble.
+
+**CAMERA:**
+Start: (00:19.00) | End: (00:21.50)
+Tight close-up as Celeste's hand swings.
+
+**ACTION:**
+Start: (00:19.20) | End: (00:20.20)
+Celeste slaps Mira hard across the face.
+
+**SOUND FX:**
+Start: (00:19.40) | End: (00:20.00)
+A sharp, echoing slap.
+
+**CAMERA:**
+Start: (00:21.50) | End: (00:24.50)
+Close-up on Mira, her cheek reddening, eyes wet but steady.
+
+**CELESTE (Venomous, Loud):**
+Start: (00:21.80) | End: (00:24.30)
+"Thieves like you belong in prison, not in this house!"
+
+**CAMERA:**
+Start: (00:24.50) | End: (00:28.00)
+Medium shot of Adrian, the groom, stepping forward from the crowd.
+
+**ADRIAN (Firm, Uneasy):**
+Start: (00:25.00) | End: (00:27.60)
+"Celeste, enough. You have no proof."
+
+**CAMERA:**
+Start: (00:28.00) | End: (00:31.00)
+Close-up on Celeste smiling coldly at Adrian.
+
+**CELESTE (Smug, Cruel):**
+Start: (00:28.20) | End: (00:30.80)
+"Then search her. Strip her pockets in front of everyone."
+
+**CAMERA:**
+Start: (00:31.00) | End: (00:35.00)
+Wide shot as two guards close in on Mira from both sides.
+
+**ACTION:**
+Start: (00:31.50) | End: (00:35.00)
+A guard yanks Mira's collar and a small silver pendant on a cord swings free.
+
+**CAMERA:**
+Start: (00:35.00) | End: (00:38.50)
+Insert close-up on the pendant: a silver moth with a sapphire body.
+
+**CAMERA:**
+Start: (00:38.50) | End: (00:42.00)
+Medium shot of Grandmother Vance at the top of the staircase, gripping the railing, her face draining of color.
+
+**GRANDMOTHER VANCE (Stunned, Hushed):**
+Start: (00:39.00) | End: (00:41.50)
+"Stop. Nobody touch that girl."
+
+**CAMERA:**
+Start: (00:42.00) | End: (00:46.00)
+Low angle as Grandmother Vance descends the staircase with her cane, guests stepping aside.
+
+**CELESTE (Nervous Laugh):**
+Start: (00:43.00) | End: (00:45.50)
+"Grandmother, she is a thief. I am handling it."
+
+**CAMERA:**
+Start: (00:46.00) | End: (00:49.50)
+Close-up on Grandmother Vance's trembling hand reaching for the pendant.
+
+**GRANDMOTHER VANCE (Trembling):**
+Start: (00:46.50) | End: (00:49.20)
+"I had this made forty years ago. There were only two."
+
+**CAMERA:**
+Start: (00:49.50) | End: (00:53.00)
+Close-up on Celeste's smile freezing.
+
+**ACTION:**
+Start: (00:50.00) | End: (00:53.00)
+Celeste's fingers tighten around her champagne glass until it cracks.
+
+**CAMERA:**
+Start: (00:53.00) | End: (00:57.00)
+Two-shot of Grandmother Vance and Mira face to face.
+
+**GRANDMOTHER VANCE (Urgent, Shaking):**
+Start: (00:53.30) | End: (00:56.80)
+"Child, who gave you this? Tell me the truth."
+
+**CAMERA:**
+Start: (00:57.00) | End: (01:01.00)
+Close-up on Mira, confused, touching the pendant.
+
+**MIRA (Hesitant):**
+Start: (00:57.40) | End: (01:00.60)
+"I have had it since the orphanage. It is all I had."
+
+**CAMERA:**
+Start: (01:01.00) | End: (01:05.00)
+Close-up on Grandmother Vance gasping, tears welling.
+
+**GRANDMOTHER VANCE (Breathless):**
+Start: (01:01.50) | End: (01:04.50)
+"The orphanage on Hollis Street?"
+
+**CAMERA:**
+Start: (01:05.00) | End: (01:09.00)
+Over-the-shoulder on Celeste, who slips her phone out and types quickly.
+
+**ACTION:**
+Start: (01:05.50) | End: (01:09.00)
+On Celeste's phone screen: "Get the car. She cannot leave this house tonight."
+
+**CAMERA:**
+Start: (01:09.00) | End: (01:13.00)
+Extreme close-up on Mira's eyes as she nods slowly.
+
+**MIRA (Whispering):**
+Start: (01:09.50) | End: (01:12.00)
+"How do you know that name?"
+
+**SOUND FX:**
+Start: (01:12.00) | End: (01:15.00)
+A low cello sting swells into an abrupt cliffhanger.
+
+**CAMERA:**
+Start: (01:13.00) | End: (01:16.00)
+Cut to black.
+
+--- SCRIPT END ---

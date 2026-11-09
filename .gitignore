@@ -1,0 +1,15 @@
+# Kuku's input pack is confidential - never commit it
+pack/
+input/
+*.zip
+data/
+
+# keys and caches
+.env
+.streamlit/secrets.toml
+.promo_cache/
+__pycache__/
+.pytest_cache/
+
+# run outputs (share the raw outputs folder via Drive, not the public repo)
+outputs/
